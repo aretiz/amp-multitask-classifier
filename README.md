@@ -1,7 +1,7 @@
 # Multitask Classification of Antimicrobial Peptides for Simultaneous Assessment of Antimicrobial Property and Structural Fold
 
 ## Published Work
-This project is an implementation of the research presented in the paper that has been accepted at the [International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2024](https://www.icassp2024.org/).
+This project is an implementation of the research presented in the paper that has been accepted at the [International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2024](https://2024.ieeeicassp.org/).
 
 The full paper can be found in the conference proceedings or accessed directly [here](link-to-the-paper-if-available).
 ## Introduction
