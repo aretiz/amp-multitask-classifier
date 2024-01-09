@@ -16,4 +16,4 @@ This repository houses an innovative multitask classifier designed to recognize 
 ## Usage
 1. Clone the repository: `git clone https://github.com/aretiz/amp-multitask-classifier.git`
 2. Navigate to the `code/src/` directory.
-3. Run the main script: `python main.py`
+3. Run the main script: `python multitask.py` or `python singletask.py`
